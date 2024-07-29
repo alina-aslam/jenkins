@@ -1,5 +1,5 @@
 
 
 #!/bin/sh
-echo "Hello world jenkins,"
+eco "Hello world jenkins,"
 echo "success" > /result.txt
