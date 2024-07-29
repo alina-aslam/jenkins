@@ -1,4 +1,4 @@
 
 
 #!/bin/sh
-echo "Hello world jekins"
+echo "Hello world jenkins"
